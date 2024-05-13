@@ -18,8 +18,8 @@ To write a program to implement the linear regression using gradient descent.
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: thamaraiselvan.v
-RegisterNumber: 212221230115 
+Developed by: deepika p
+RegisterNumber: 212223240024
 */
 ```
 ```
